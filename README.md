@@ -2,7 +2,7 @@
 - 👀 I’m interested in Science & Technology.
 - 🌱 I’m currently learning Building Cross Platform App via Flutter. 
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me fb/tareq542
+- 📫 How to reach me? Text m.me/tareq542
 
 <!---
 tareq542/tareq542 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
